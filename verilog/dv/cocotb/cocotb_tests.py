@@ -1,7 +1,6 @@
 from hello_world.hello_world import hello_world
 from hello_world_uart.hello_world_uart import hello_world_uart
 from gpio_test.gpio_test import gpio_test
-from user_proj_tests.uart_test.uart_test import uart_test
 from user_proj_tests.multi_uart_test.multi_uart_test import multi_uart_test
 from user_proj_tests.single_uart_test.single_uart_test import single_uart_test
 from user_proj_tests.multi_spi_test.multi_spi_test import multi_spi_test
