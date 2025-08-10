@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 ChipFoundry
+# SPDX-FileCopyrightText: 2025 ChipFoundry
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,5 +13,5 @@
 # limitations under the License.
 # SPDX-License-Identifier: Apache-2.0
 
-test_name: single_uart_test
-simulation_type: RTL 
+Tests: 
+    - {name: single_uart_test, sim: RTL}
