@@ -15,8 +15,8 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include <firmware_apis.h>
-#include <EF_UART.h>
-#include <EF_UART.c>
+#include <CF_UART.h>
+#include <CF_UART.c>
 
 // UART base addresses for 8 UARTs (64KB spacing to avoid overlap with 16-bit register offsets)
 // CF_UART uses 16-bit register addresses up to 0xFFFF (e.g. 0xFF10), so each UART must be 64KB aligned

@@ -15,8 +15,8 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include <firmware_apis.h>
-#include <EF_UART.h>
-#include <EF_UART.c>
+#include <CF_UART.h>
+#include <CF_UART.c>
 
 // UART0 base address
 #define UART0_BASE 0x30000000

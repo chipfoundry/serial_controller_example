@@ -2,8 +2,8 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include <firmware_apis.h>
-#include <EF_SPI.h>
-#include <EF_SPI.c>
+#include <CF_SPI.h>
+#include <CF_SPI.c>
 
 // SPI base addresses (64KB stride), SPI block pages at 0x3008_0000 .. 0x300C_0000
 #define SPI0_BASE 0x30080000
