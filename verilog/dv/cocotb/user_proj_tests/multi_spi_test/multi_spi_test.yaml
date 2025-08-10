@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2024 ChipFoundry
+# SPDX-License-Identifier: Apache-2.0
+
+test_name: multi_spi_test
+simulation_type: RTL
+

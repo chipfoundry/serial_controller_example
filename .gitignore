@@ -13,3 +13,5 @@
 /mgmt_core_wrapper
 /logs
 openlane2-venv
+*cursor*
+*DS_Store*

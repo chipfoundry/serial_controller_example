@@ -1,0 +1,2564 @@
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:53: warning: already initialized constant DRC::DRCEngine::FEOL
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:44: warning: previous definition of FEOL was here
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:59: warning: already initialized constant DRC::DRCEngine::BEOL
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:45: warning: previous definition of BEOL was here
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:65: warning: already initialized constant DRC::DRCEngine::OFFGRID
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:46: warning: previous definition of OFFGRID was here
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:71: warning: already initialized constant DRC::DRCEngine::SEAL
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:47: warning: previous definition of SEAL was here
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:79: warning: already initialized constant DRC::DRCEngine::FLOATING_MET
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:48: warning: previous definition of FLOATING_MET was here
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:85: warning: already initialized constant DRC::DRCEngine::SRAM_EXCLUDE
+/Users/marwan/chipfoundry/caravel_user_project/dependencies/pdks/sky130B/libs.tech/klayout/drc/sky130B_mr.drc:49: warning: previous definition of SRAM_EXCLUDE was here
+"input" in: sky130B_mr.drc:135
+    Polygons (raw): 1532788 (flat)  644 (hierarchical)
+    Elapsed: 0.200s
+"polygons" in: sky130B_mr.drc:136
+    Polygons (raw): 289800 (flat)  2 (hierarchical)
+    Elapsed: 0.140s
+"polygons" in: sky130B_mr.drc:137
+    Polygons (raw): 1033497 (flat)  211 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:138
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:139
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:140
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:141
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:142
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:143
+    Polygons (raw): 1034990 (flat)  218 (hierarchical)
+    Elapsed: 0.120s
+"polygons" in: sky130B_mr.drc:144
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:145
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:146
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:147
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:148
+    Polygons (raw): 1694033 (flat)  1605 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:149
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:150
+    Polygons (raw): 1178397 (flat)  212 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:151
+    Polygons (raw): 1178439 (flat)  213 (hierarchical)
+    Elapsed: 0.120s
+"polygons" in: sky130B_mr.drc:152
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:153
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:154
+    Polygons (raw): 762134 (flat)  256 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:155
+    Polygons (raw): 6245132 (flat)  7237 (hierarchical)
+    Elapsed: 0.140s
+"polygons" in: sky130B_mr.drc:157
+    Polygons (raw): 5093111 (flat)  105870 (hierarchical)
+    Elapsed: 0.230s
+"polygons" in: sky130B_mr.drc:158
+    Polygons (raw): 16412629 (flat)  107088 (hierarchical)
+    Elapsed: 0.190s
+"polygons" in: sky130B_mr.drc:160
+    Polygons (raw): 2534884 (flat)  432101 (hierarchical)
+    Elapsed: 0.340s
+"polygons" in: sky130B_mr.drc:161
+    Polygons (raw): 311116 (flat)  311116 (hierarchical)
+    Elapsed: 0.330s
+"polygons" in: sky130B_mr.drc:163
+    Polygons (raw): 216145 (flat)  216145 (hierarchical)
+    Elapsed: 0.250s
+"polygons" in: sky130B_mr.drc:164
+    Polygons (raw): 153854 (flat)  153854 (hierarchical)
+    Elapsed: 0.210s
+"polygons" in: sky130B_mr.drc:166
+    Polygons (raw): 24165 (flat)  24165 (hierarchical)
+    Elapsed: 0.140s
+"polygons" in: sky130B_mr.drc:167
+    Polygons (raw): 153286 (flat)  153286 (hierarchical)
+    Elapsed: 0.200s
+"polygons" in: sky130B_mr.drc:169
+    Polygons (raw): 360 (flat)  360 (hierarchical)
+    Elapsed: 0.140s
+"polygons" in: sky130B_mr.drc:170
+    Polygons (raw): 12560 (flat)  12560 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:172
+    Polygons (raw): 172 (flat)  172 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:174
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:175
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:176
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:177
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:178
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:179
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:180
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:181
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:182
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:183
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:184
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:185
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:186
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:187
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:188
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:189
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:190
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:191
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:192
+    Polygons (raw): 1033497 (flat)  211 (hierarchical)
+    Elapsed: 0.120s
+"polygons" in: sky130B_mr.drc:193
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:194
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:195
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:196
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:197
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:198
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:199
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:200
+    Polygons (raw): 1 (flat)  1 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:201
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:202
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:203
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:204
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:205
+    Polygons (raw): 944 (flat)  1 (hierarchical)
+    Elapsed: 0.130s
+"polygons" in: sky130B_mr.drc:206
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:207
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:208
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:209
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:210
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:211
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:212
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:213
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:214
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:215
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:216
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:217
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:218
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:219
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:220
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:221
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:222
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"polygons" in: sky130B_mr.drc:223
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:224
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:225
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:226
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:227
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:228
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"polygons" in: sky130B_mr.drc:229
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+DRC section
+FEOL section
+START: 64/18 (dnwell)
+"width" in: sky130B_mr.drc:255
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:255
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"or" in: sky130B_mr.drc:256
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.130s
+"-" in: sky130B_mr.drc:256
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:256
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:256
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 64/18 (dnwell)
+"input" in: sky130B_mr.drc:260
+    Polygons (raw): 1178397 (flat)  212 (hierarchical)
+    Elapsed: 0.130s
+"input" in: sky130B_mr.drc:261
+    Polygons (raw): 1178439 (flat)  213 (hierarchical)
+    Elapsed: 0.130s
+"input" in: sky130B_mr.drc:262
+    Polygons (raw): 1033497 (flat)  211 (hierarchical)
+    Elapsed: 0.120s
+"input" in: sky130B_mr.drc:267
+    Polygons (raw): 1033497 (flat)  211 (hierarchical)
+    Elapsed: 0.130s
+START: 64/20 (nwell)
+"width" in: sky130B_mr.drc:271
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.060s
+"output" in: sky130B_mr.drc:271
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:272
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 16.920s
+"output" in: sky130B_mr.drc:272
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"&" in: sky130B_mr.drc:273
+    Polygons (raw): 1033497 (flat)  211 (hierarchical)
+    Elapsed: 12.960s
+"merge" in: sky130B_mr.drc:273
+    Polygons (raw): 643 (flat)  643 (hierarchical)
+    Elapsed: 8.160s
+"holes" in: sky130B_mr.drc:274
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"enclosing" in: sky130B_mr.drc:274
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:274
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"or" in: sky130B_mr.drc:275
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.130s
+"or" in: sky130B_mr.drc:275
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.130s
+"or" in: sky130B_mr.drc:275
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.130s
+"&" in: sky130B_mr.drc:276
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"interacting" in: sky130B_mr.drc:276
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:276
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:276
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+END: 64/20 (nwell)
+START: 78/44 (hvtp)
+"width" in: sky130B_mr.drc:281
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 7.860s
+"output" in: sky130B_mr.drc:281
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:282
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 12.710s
+"output" in: sky130B_mr.drc:282
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 78/44 (hvtp)
+START: 124/20 (pwde)
+"width" in: sky130B_mr.drc:287
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:287
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"or" in: sky130B_mr.drc:288
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.140s
+"&" in: sky130B_mr.drc:288
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:288
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:288
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 124/20 (pwde)
+START: 18/20 (htvr)
+"width" in: sky130B_mr.drc:293
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:293
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"separation" in: sky130B_mr.drc:294
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:294
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:295
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:295
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 18/20 (htvr)
+START: 25/44 (lvtn)
+"width" in: sky130B_mr.drc:300
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:300
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:301
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:301
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 25/44 (lvtn)
+START: 92/44 (ncm)
+"width" in: sky130B_mr.drc:306
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:306
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:307
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:307
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 92/44 (ncm)
+START: 65/20 (diff)
+"or" in: sky130B_mr.drc:312
+    Polygons (raw): 1818971 (flat)  639 (hierarchical)
+    Elapsed: 1.730s
+"rectangles" in: sky130B_mr.drc:313
+    Polygons (raw): 1483695 (flat)  476 (hierarchical)
+    Elapsed: 1.290s
+"width" in: sky130B_mr.drc:313
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"polygons" in: sky130B_mr.drc:313
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:314
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside_part" in: sky130B_mr.drc:314
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"outside" in: sky130B_mr.drc:314
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"edges" in: sky130B_mr.drc:314
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"-" in: sky130B_mr.drc:314
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:315
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside" in: sky130B_mr.drc:316
+    Polygons (raw): 1532788 (flat)  644 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:316
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:316
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"inside" in: sky130B_mr.drc:317
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"width" in: sky130B_mr.drc:317
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:317
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 65/20 (diff)
+START: 65/44 (tap)
+"rectangles" in: sky130B_mr.drc:321
+    Polygons (raw): 289800 (flat)  2 (hierarchical)
+    Elapsed: 0.290s
+"width" in: sky130B_mr.drc:321
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.140s
+"polygons" in: sky130B_mr.drc:321
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:322
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside_part" in: sky130B_mr.drc:322
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside" in: sky130B_mr.drc:322
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:322
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"-" in: sky130B_mr.drc:322
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:323
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:324
+    Polygons (raw): 289800 (flat)  2 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:324
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.430s
+"output" in: sky130B_mr.drc:324
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 65/44 (tap)
+"space" in: sky130B_mr.drc:327
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 3.760s
+"output" in: sky130B_mr.drc:327
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+START: 80/20 (tunm)
+"width" in: sky130B_mr.drc:331
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:331
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:332
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:332
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 80/20 (tunm)
+START: 80/20 (thkox)
+"-" in: sky130B_mr.drc:337
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:338
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:338
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:339
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:339
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 80/20 (thkox)
+START: 66/20 (poly)
+"width" in: sky130B_mr.drc:344
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.440s
+"output" in: sky130B_mr.drc:344
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:345
+    Polygons (raw): 1694033 (flat)  1605 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:345
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 2.950s
+"output" in: sky130B_mr.drc:345
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"inside" in: sky130B_mr.drc:346
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"drc" in: sky130B_mr.drc:346
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"polygons" in: sky130B_mr.drc:346
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"interacting" in: sky130B_mr.drc:347
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"isolated" in: sky130B_mr.drc:347
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:347
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 66/20 (poly)
+START: 80/20 (ldntm)
+"&" in: sky130B_mr.drc:352
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:353
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:353
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:354
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:354
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 80/20 (ldntm)
+START: 86/20 (rpm)
+"width" in: sky130B_mr.drc:360
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:360
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:361
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:361
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 86/20 (rpm)
+START: 79/20 (urpm)
+"width" in: sky130B_mr.drc:366
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:366
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:367
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:367
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 79/20 (urpm)
+START: 95/20 (npc)
+"width" in: sky130B_mr.drc:372
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 5.580s
+"output" in: sky130B_mr.drc:372
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:373
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 4.940s
+"output" in: sky130B_mr.drc:373
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 95/20 (npc)
+START: 93/44 (nsdm)
+"-" in: sky130B_mr.drc:379
+    Polygons (raw): 1178397 (flat)  212 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:379
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 16.230s
+"output" in: sky130B_mr.drc:379
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.220s
+"outside" in: sky130B_mr.drc:380
+    Polygons (raw): 1178397 (flat)  212 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:380
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.620s
+"output" in: sky130B_mr.drc:380
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"rectangles" in: sky130B_mr.drc:381
+    Polygons (raw): 144900 (flat)  1 (hierarchical)
+    Elapsed: 8.190s
+"width" in: sky130B_mr.drc:381
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"polygons" in: sky130B_mr.drc:381
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:382
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside_part" in: sky130B_mr.drc:382
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"outside" in: sky130B_mr.drc:382
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:382
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"-" in: sky130B_mr.drc:382
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:383
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"rectangles" in: sky130B_mr.drc:384
+    Polygons (raw): 144900 (flat)  1 (hierarchical)
+    Elapsed: 0.010s
+"space" in: sky130B_mr.drc:384
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.480s
+"polygons" in: sky130B_mr.drc:384
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:385
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.210s
+"outside_part" in: sky130B_mr.drc:385
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside" in: sky130B_mr.drc:385
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:385
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:385
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:386
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"inside" in: sky130B_mr.drc:387
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:387
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:387
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"inside" in: sky130B_mr.drc:388
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:388
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:388
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"inside" in: sky130B_mr.drc:389
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:389
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_internal_angle" in: sky130B_mr.drc:389
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:389
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 93/44 (nsdm)
+START: 94/20 (psdm)
+"-" in: sky130B_mr.drc:409
+    Polygons (raw): 1178439 (flat)  213 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:409
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 14.860s
+"output" in: sky130B_mr.drc:409
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.210s
+"outside" in: sky130B_mr.drc:410
+    Polygons (raw): 1178439 (flat)  213 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:410
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.910s
+"output" in: sky130B_mr.drc:410
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"rectangles" in: sky130B_mr.drc:411
+    Polygons (raw): 144900 (flat)  1 (hierarchical)
+    Elapsed: 8.290s
+"width" in: sky130B_mr.drc:411
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"polygons" in: sky130B_mr.drc:411
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:412
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"outside_part" in: sky130B_mr.drc:412
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"outside" in: sky130B_mr.drc:412
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"edges" in: sky130B_mr.drc:412
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:412
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"output" in: sky130B_mr.drc:413
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"rectangles" in: sky130B_mr.drc:414
+    Polygons (raw): 144900 (flat)  1 (hierarchical)
+    Elapsed: 0.010s
+"space" in: sky130B_mr.drc:414
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.510s
+"polygons" in: sky130B_mr.drc:414
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"edges" in: sky130B_mr.drc:415
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"outside_part" in: sky130B_mr.drc:415
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"outside" in: sky130B_mr.drc:415
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:415
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:415
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:416
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"inside" in: sky130B_mr.drc:417
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:417
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:417
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"inside" in: sky130B_mr.drc:418
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:418
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:418
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"inside" in: sky130B_mr.drc:419
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:419
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_internal_angle" in: sky130B_mr.drc:419
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:419
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"&" in: sky130B_mr.drc:420
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 4.160s
+"&" in: sky130B_mr.drc:420
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:420
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 94/20 (psdm)
+START: 66/44 (licon)
+"&" in: sky130B_mr.drc:440
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"&" in: sky130B_mr.drc:441
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:441
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:442
+    Polygons (raw): 6245132 (flat)  7237 (hierarchical)
+    Elapsed: 0.060s
+"drc" in: sky130B_mr.drc:444
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 5.690s
+"-" in: sky130B_mr.drc:445
+    Polygons (raw): 6245132 (flat)  7237 (hierarchical)
+    Elapsed: 0.070s
+"non_rectangles" in: sky130B_mr.drc:449
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.550s
+"output" in: sky130B_mr.drc:449
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:450
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 4.150s
+"output" in: sky130B_mr.drc:450
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:451
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:451
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"&" in: sky130B_mr.drc:452
+    Polygons (raw): 4297359 (flat)  5707 (hierarchical)
+    Elapsed: 4.190s
+"separation" in: sky130B_mr.drc:452
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 5.430s
+"output" in: sky130B_mr.drc:452
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"&" in: sky130B_mr.drc:453
+    Polygons (raw): 4297359 (flat)  5707 (hierarchical)
+    Elapsed: 4.130s
+"&" in: sky130B_mr.drc:453
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 3.700s
+"output" in: sky130B_mr.drc:453
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"interacting" in: sky130B_mr.drc:454
+    Polygons (raw): 1947773 (flat)  1530 (hierarchical)
+    Elapsed: 3.860s
+"interacting" in: sky130B_mr.drc:454
+    Polygons (raw): 4297359 (flat)  5707 (hierarchical)
+    Elapsed: 4.300s
+"&" in: sky130B_mr.drc:454
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 3.700s
+"output" in: sky130B_mr.drc:454
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"-" in: sky130B_mr.drc:455
+    Polygons (raw): 3675080 (flat)  3961 (hierarchical)
+    Elapsed: 3.920s
+"&" in: sky130B_mr.drc:456
+    Polygons (raw): 4297359 (flat)  5707 (hierarchical)
+    Elapsed: 4.040s
+"interacting" in: sky130B_mr.drc:456
+    Polygons (raw): 4297359 (flat)  5707 (hierarchical)
+    Elapsed: 4.460s
+"-" in: sky130B_mr.drc:457
+    Polygons (raw): 1947773 (flat)  1530 (hierarchical)
+    Elapsed: 4.010s
+"-" in: sky130B_mr.drc:457
+    Polygons (raw): 1947773 (flat)  1530 (hierarchical)
+    Elapsed: 3.890s
+"&" in: sky130B_mr.drc:457
+    Polygons (raw): 1947773 (flat)  1530 (hierarchical)
+    Elapsed: 3.140s
+"interacting" in: sky130B_mr.drc:457
+    Polygons (raw): 1947773 (flat)  1530 (hierarchical)
+    Elapsed: 4.840s
+"&" in: sky130B_mr.drc:458
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"enclosing" in: sky130B_mr.drc:459
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:459
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:460
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:460
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 66/44 (licon)
+START: 61/20 (nsm)
+"space" in: sky130B_mr.drc:465
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:465
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:466
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:466
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 61/20 (nsm)
+START: 89/44 (capm)
+"width" in: sky130B_mr.drc:471
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:471
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:472
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:472
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:473
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"sized" in: sky130B_mr.drc:473
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"isolated" in: sky130B_mr.drc:474
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"polygons" in: sky130B_mr.drc:474
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"-" in: sky130B_mr.drc:474
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:474
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"not_interacting" in: sky130B_mr.drc:475
+    Polygons (raw): 24165 (flat)  24165 (hierarchical)
+    Elapsed: 0.080s
+"separation" in: sky130B_mr.drc:475
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:475
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"enclosing" in: sky130B_mr.drc:477
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:477
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"enclosing" in: sky130B_mr.drc:478
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:478
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"separation" in: sky130B_mr.drc:479
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:479
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"not_interacting" in: sky130B_mr.drc:480
+    Polygons (raw): 24165 (flat)  24165 (hierarchical)
+    Elapsed: 0.060s
+"separation" in: sky130B_mr.drc:480
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:480
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 89/44 (capm)
+START: 97/44 (cap2m)
+"width" in: sky130B_mr.drc:485
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:485
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:486
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"output" in: sky130B_mr.drc:486
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"interacting" in: sky130B_mr.drc:487
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"isolated" in: sky130B_mr.drc:487
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:487
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"interacting" in: sky130B_mr.drc:488
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"isolated" in: sky130B_mr.drc:488
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:488
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:489
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:489
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:489
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:490
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:490
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"enclosing" in: sky130B_mr.drc:491
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:491
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"separation" in: sky130B_mr.drc:492
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:492
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"not_interacting" in: sky130B_mr.drc:493
+    Polygons (raw): 360 (flat)  360 (hierarchical)
+    Elapsed: 0.070s
+"separation" in: sky130B_mr.drc:493
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:493
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 97/44 (cap2m)
+BEOL section
+START: 67/20 (li)
+"outside" in: sky130B_mr.drc:502
+    Polygons (raw): 5093111 (flat)  105870 (hierarchical)
+    Elapsed: 0.080s
+"interacting" in: sky130B_mr.drc:502
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"inside" in: sky130B_mr.drc:502
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:502
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"or" in: sky130B_mr.drc:502
+    Polygons (raw): 225934 (flat)  105481 (hierarchical)
+    Elapsed: 23.790s
+"width" in: sky130B_mr.drc:503
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 6.340s
+"output" in: sky130B_mr.drc:503
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:504
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 40.480s
+"output" in: sky130B_mr.drc:504
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"-" in: sky130B_mr.drc:505
+    Polygons (raw): 6245132 (flat)  7237 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:506
+    Edge pairs: 5479517 (flat)  4943981 (hierarchical)
+    Elapsed: 141.540s
+"second_edges" in: sky130B_mr.drc:506
+    Edges: 5479517 (flat)  4943981 (hierarchical)
+    Elapsed: 0.170s
+"width" in: sky130B_mr.drc:507
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 13.770s
+"polygons" in: sky130B_mr.drc:508
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"interacting" in: sky130B_mr.drc:508
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:509
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"interacting" in: sky130B_mr.drc:510
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:510
+    Polygons (raw): 5093111 (flat)  105870 (hierarchical)
+    Elapsed: 0.070s
+"with_area" in: sky130B_mr.drc:511
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 23.660s
+"output" in: sky130B_mr.drc:511
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"&" in: sky130B_mr.drc:512
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:513
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:513
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"width" in: sky130B_mr.drc:514
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:514
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 67/20 (li)
+START: 67/44 (mcon)
+"-" in: sky130B_mr.drc:519
+    Polygons (raw): 16412629 (flat)  107088 (hierarchical)
+    Elapsed: 0.080s
+"drc" in: sky130B_mr.drc:521
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 182.680s
+"-" in: sky130B_mr.drc:522
+    Polygons (raw): 16412629 (flat)  107088 (hierarchical)
+    Elapsed: 0.100s
+"-" in: sky130B_mr.drc:526
+    Polygons (raw): 16412629 (flat)  107088 (hierarchical)
+    Elapsed: 0.050s
+"non_rectangles" in: sky130B_mr.drc:527
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 165.510s
+"output" in: sky130B_mr.drc:527
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:529
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 178.990s
+"output" in: sky130B_mr.drc:529
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"drc" in: sky130B_mr.drc:530
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 17.320s
+"output" in: sky130B_mr.drc:530
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:531
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 32.250s
+"output" in: sky130B_mr.drc:531
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:533
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:533
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:534
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"output" in: sky130B_mr.drc:534
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:535
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:535
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"-" in: sky130B_mr.drc:537
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 22.810s
+"output" in: sky130B_mr.drc:537
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 67/44 (mcon)
+START: 68/20 (m1)
+"width" in: sky130B_mr.drc:542
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 18.490s
+"output" in: sky130B_mr.drc:542
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"sized" in: sky130B_mr.drc:543
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.740s
+"sized" in: sky130B_mr.drc:543
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"snap" in: sky130B_mr.drc:543
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"&" in: sky130B_mr.drc:543
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"edges" in: sky130B_mr.drc:544
+    Edges: 1436888 (flat)  1183668 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:544
+    Edges: 1436888 (flat)  1183668 (hierarchical)
+    Elapsed: 0.060s
+"edges" in: sky130B_mr.drc:545
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"merged" in: sky130B_mr.drc:545
+    Polygons (raw): 112768 (flat)  99697 (hierarchical)
+    Elapsed: 0.000s
+"outside_part" in: sky130B_mr.drc:545
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.150s
+"space" in: sky130B_mr.drc:547
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 2.510s
+"output" in: sky130B_mr.drc:547
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"separation" in: sky130B_mr.drc:549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"space" in: sky130B_mr.drc:549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"+" in: sky130B_mr.drc:549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"input" in: sky130B_mr.drc:553
+    Polygons (raw): 2534884 (flat)  432101 (hierarchical)
+    Elapsed: 0.280s
+"enclosing" in: sky130B_mr.drc:555
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 73.890s
+"output" in: sky130B_mr.drc:555
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:556
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 26.380s
+"output" in: sky130B_mr.drc:556
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"input" in: sky130B_mr.drc:558
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.180s
+"enclosing" in: sky130B_mr.drc:559
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:559
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:561
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:561
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"with_area" in: sky130B_mr.drc:563
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:563
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"holes" in: sky130B_mr.drc:565
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"with_area" in: sky130B_mr.drc:565
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:565
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"enclosing" in: sky130B_mr.drc:572
+    Edge pairs: 314549 (flat)  238183 (hierarchical)
+    Elapsed: 50.270s
+"second_edges" in: sky130B_mr.drc:572
+    Edges: 314549 (flat)  238183 (hierarchical)
+    Elapsed: 0.010s
+"width" in: sky130B_mr.drc:573
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.690s
+"polygons" in: sky130B_mr.drc:574
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"interacting" in: sky130B_mr.drc:574
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:575
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 68/20 (m1)
+START: 68/44 (via)
+"drc" in: sky130B_mr.drc:583
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 2.210s
+"-" in: sky130B_mr.drc:584
+    Polygons (raw): 311116 (flat)  311116 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:589
+    Polygons (raw): 311116 (flat)  311116 (hierarchical)
+    Elapsed: 0.050s
+"non_rectangles" in: sky130B_mr.drc:591
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.870s
+"output" in: sky130B_mr.drc:591
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:592
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.140s
+"output" in: sky130B_mr.drc:592
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:594
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.690s
+"output" in: sky130B_mr.drc:594
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:596
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.550s
+"output" in: sky130B_mr.drc:596
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:599
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:599
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:600
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.180s
+"output" in: sky130B_mr.drc:600
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:601
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:601
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:604
+    Edges: 1436888 (flat)  1183668 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:604
+    Edges: 1244464 (flat)  1244464 (hierarchical)
+    Elapsed: 4.970s
+"enclosing" in: sky130B_mr.drc:604
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.570s
+"output" in: sky130B_mr.drc:604
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.190s
+"squares" in: sky130B_mr.drc:605
+    Polygons (raw): 311116 (flat)  311116 (hierarchical)
+    Elapsed: 0.100s
+"drc" in: sky130B_mr.drc:605
+    Edges: 1244464 (flat)  1244464 (hierarchical)
+    Elapsed: 3.690s
+"-" in: sky130B_mr.drc:605
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.080s
+"output" in: sky130B_mr.drc:605
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"edges" in: sky130B_mr.drc:607
+    Edges: 1436888 (flat)  1183668 (hierarchical)
+    Elapsed: 0.050s
+"drc" in: sky130B_mr.drc:607
+    Edges: 1244464 (flat)  1244464 (hierarchical)
+    Elapsed: 2.780s
+"enclosing" in: sky130B_mr.drc:607
+    Edge pairs: 231246 (flat)  231246 (hierarchical)
+    Elapsed: 1.620s
+"second_edges" in: sky130B_mr.drc:607
+    Edges: 231246 (flat)  231246 (hierarchical)
+    Elapsed: 0.010s
+"width" in: sky130B_mr.drc:608
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.540s
+"polygons" in: sky130B_mr.drc:609
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"interacting" in: sky130B_mr.drc:609
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:610
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 68/44 (via)
+START: 69/20 (m2)
+"&" in: sky130B_mr.drc:617
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:618
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.990s
+"output" in: sky130B_mr.drc:618
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"sized" in: sky130B_mr.drc:620
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.460s
+"sized" in: sky130B_mr.drc:620
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"snap" in: sky130B_mr.drc:620
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"&" in: sky130B_mr.drc:620
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:621
+    Edges: 836788 (flat)  836788 (hierarchical)
+    Elapsed: 0.040s
+"-" in: sky130B_mr.drc:621
+    Edges: 836788 (flat)  836788 (hierarchical)
+    Elapsed: 0.060s
+"edges" in: sky130B_mr.drc:622
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"merged" in: sky130B_mr.drc:622
+    Polygons (raw): 70175 (flat)  70175 (hierarchical)
+    Elapsed: 0.000s
+"outside_part" in: sky130B_mr.drc:622
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:623
+    Polygons (raw): 311116 (flat)  311116 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:625
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.810s
+"output" in: sky130B_mr.drc:625
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"separation" in: sky130B_mr.drc:627
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"space" in: sky130B_mr.drc:627
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"+" in: sky130B_mr.drc:627
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:627
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.110s
+"with_area" in: sky130B_mr.drc:629
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:629
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"holes" in: sky130B_mr.drc:630
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"with_area" in: sky130B_mr.drc:630
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"output" in: sky130B_mr.drc:630
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"enclosing" in: sky130B_mr.drc:635
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.240s
+"output" in: sky130B_mr.drc:635
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:636
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.160s
+"output" in: sky130B_mr.drc:636
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"enclosing" in: sky130B_mr.drc:637
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:637
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:638
+    Edge pairs: 273200 (flat)  273200 (hierarchical)
+    Elapsed: 2.090s
+"second_edges" in: sky130B_mr.drc:638
+    Edges: 273200 (flat)  273200 (hierarchical)
+    Elapsed: 0.030s
+"width" in: sky130B_mr.drc:639
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.760s
+"polygons" in: sky130B_mr.drc:640
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"interacting" in: sky130B_mr.drc:640
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:641
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 69/20 (m2)
+START: 69/44 (via2)
+"drc" in: sky130B_mr.drc:650
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.420s
+"-" in: sky130B_mr.drc:651
+    Polygons (raw): 153854 (flat)  153854 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:656
+    Polygons (raw): 153854 (flat)  153854 (hierarchical)
+    Elapsed: 0.050s
+"non_rectangles" in: sky130B_mr.drc:657
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.250s
+"output" in: sky130B_mr.drc:657
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:658
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:658
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:659
+    Edges: 615416 (flat)  615416 (hierarchical)
+    Elapsed: 0.040s
+"without_length" in: sky130B_mr.drc:659
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"output" in: sky130B_mr.drc:659
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"space" in: sky130B_mr.drc:660
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.330s
+"output" in: sky130B_mr.drc:660
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:663
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:663
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"drc" in: sky130B_mr.drc:664
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.180s
+"output" in: sky130B_mr.drc:664
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:665
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:665
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"enclosing" in: sky130B_mr.drc:668
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.470s
+"output" in: sky130B_mr.drc:668
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:669
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.460s
+"output" in: sky130B_mr.drc:669
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:671
+    Edge pairs: 1411 (flat)  1411 (hierarchical)
+    Elapsed: 0.700s
+"second_edges" in: sky130B_mr.drc:671
+    Edges: 1411 (flat)  1411 (hierarchical)
+    Elapsed: 0.020s
+"width" in: sky130B_mr.drc:672
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.280s
+"polygons" in: sky130B_mr.drc:673
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"interacting" in: sky130B_mr.drc:673
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:674
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+END: 69/44 (via2)
+START: 70/20 (m3)
+"width" in: sky130B_mr.drc:680
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.320s
+"output" in: sky130B_mr.drc:680
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"sized" in: sky130B_mr.drc:682
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"sized" in: sky130B_mr.drc:682
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"snap" in: sky130B_mr.drc:682
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"&" in: sky130B_mr.drc:682
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:683
+    Edges: 93188 (flat)  93188 (hierarchical)
+    Elapsed: 0.000s
+"-" in: sky130B_mr.drc:683
+    Edges: 93188 (flat)  93188 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:684
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"merged" in: sky130B_mr.drc:684
+    Polygons (raw): 22350 (flat)  22350 (hierarchical)
+    Elapsed: 0.000s
+"outside_part" in: sky130B_mr.drc:684
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"space" in: sky130B_mr.drc:686
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.220s
+"output" in: sky130B_mr.drc:686
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"separation" in: sky130B_mr.drc:688
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.230s
+"space" in: sky130B_mr.drc:688
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"+" in: sky130B_mr.drc:688
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:688
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"enclosing" in: sky130B_mr.drc:693
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.480s
+"output" in: sky130B_mr.drc:693
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:694
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.430s
+"output" in: sky130B_mr.drc:694
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"with_area" in: sky130B_mr.drc:696
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:696
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"holes" in: sky130B_mr.drc:697
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"with_area" in: sky130B_mr.drc:697
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:697
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 70/20 (m3)
+START: 70/44 (via3)
+"drc" in: sky130B_mr.drc:704
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.240s
+"-" in: sky130B_mr.drc:705
+    Polygons (raw): 153286 (flat)  153286 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:710
+    Polygons (raw): 153286 (flat)  153286 (hierarchical)
+    Elapsed: 0.050s
+"non_rectangles" in: sky130B_mr.drc:711
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 1.030s
+"output" in: sky130B_mr.drc:711
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:712
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"output" in: sky130B_mr.drc:712
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"edges" in: sky130B_mr.drc:713
+    Edges: 613144 (flat)  613144 (hierarchical)
+    Elapsed: 0.040s
+"without_length" in: sky130B_mr.drc:713
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:713
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"space" in: sky130B_mr.drc:715
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.320s
+"output" in: sky130B_mr.drc:715
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:716
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.510s
+"output" in: sky130B_mr.drc:716
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:717
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.410s
+"output" in: sky130B_mr.drc:717
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"enclosing" in: sky130B_mr.drc:719
+    Edge pairs: 306636 (flat)  306636 (hierarchical)
+    Elapsed: 1.230s
+"second_edges" in: sky130B_mr.drc:719
+    Edges: 306636 (flat)  306636 (hierarchical)
+    Elapsed: 0.020s
+"width" in: sky130B_mr.drc:720
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.700s
+"polygons" in: sky130B_mr.drc:721
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"interacting" in: sky130B_mr.drc:721
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:722
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 70/44 (via3)
+START: 71/20 (m4)
+"width" in: sky130B_mr.drc:728
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:728
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"sized" in: sky130B_mr.drc:730
+    Polygons (raw): 146 (flat)  146 (hierarchical)
+    Elapsed: 0.020s
+"sized" in: sky130B_mr.drc:730
+    Polygons (raw): 146 (flat)  146 (hierarchical)
+    Elapsed: 0.030s
+"snap" in: sky130B_mr.drc:730
+    Polygons (raw): 146 (flat)  146 (hierarchical)
+    Elapsed: 0.410s
+"&" in: sky130B_mr.drc:730
+    Polygons (raw): 146 (flat)  146 (hierarchical)
+    Elapsed: 0.180s
+"edges" in: sky130B_mr.drc:731
+    Edges: 1420 (flat)  1420 (hierarchical)
+    Elapsed: 0.000s
+"-" in: sky130B_mr.drc:731
+    Edges: 836 (flat)  836 (hierarchical)
+    Elapsed: 0.140s
+"edges" in: sky130B_mr.drc:732
+    Edges: 584 (flat)  584 (hierarchical)
+    Elapsed: 0.210s
+"merged" in: sky130B_mr.drc:732
+    Polygons (raw): 208 (flat)  208 (hierarchical)
+    Elapsed: 0.000s
+"outside_part" in: sky130B_mr.drc:732
+    Edges: 584 (flat)  584 (hierarchical)
+    Elapsed: 0.140s
+"space" in: sky130B_mr.drc:734
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.330s
+"output" in: sky130B_mr.drc:734
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"with_area" in: sky130B_mr.drc:736
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:736
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"separation" in: sky130B_mr.drc:738
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.310s
+"space" in: sky130B_mr.drc:738
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.120s
+"+" in: sky130B_mr.drc:738
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:738
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:743
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.660s
+"output" in: sky130B_mr.drc:743
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:744
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.380s
+"output" in: sky130B_mr.drc:744
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"holes" in: sky130B_mr.drc:746
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_area" in: sky130B_mr.drc:746
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:746
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 71/20 (m4)
+START: 71/44 (via4)
+"drc" in: sky130B_mr.drc:752
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.340s
+"-" in: sky130B_mr.drc:753
+    Polygons (raw): 12560 (flat)  12560 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:758
+    Polygons (raw): 12560 (flat)  12560 (hierarchical)
+    Elapsed: 0.070s
+"non_rectangles" in: sky130B_mr.drc:759
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"output" in: sky130B_mr.drc:759
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"width" in: sky130B_mr.drc:760
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.310s
+"output" in: sky130B_mr.drc:760
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.100s
+"drc" in: sky130B_mr.drc:761
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:761
+    Edges: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"space" in: sky130B_mr.drc:763
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"polygons" in: sky130B_mr.drc:763
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"output" in: sky130B_mr.drc:763
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:766
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:766
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"drc" in: sky130B_mr.drc:767
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.260s
+"output" in: sky130B_mr.drc:767
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:768
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:768
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"enclosing" in: sky130B_mr.drc:771
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:771
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"-" in: sky130B_mr.drc:772
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:772
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 71/44 (via4)
+START: 72/20 (m5)
+"width" in: sky130B_mr.drc:777
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"output" in: sky130B_mr.drc:777
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"space" in: sky130B_mr.drc:779
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.110s
+"output" in: sky130B_mr.drc:779
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"enclosing" in: sky130B_mr.drc:781
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:781
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"-" in: sky130B_mr.drc:782
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.140s
+"output" in: sky130B_mr.drc:782
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_area" in: sky130B_mr.drc:786
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:786
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"holes" in: sky130B_mr.drc:787
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"with_area" in: sky130B_mr.drc:787
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:787
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+END: 72/20 (m5)
+START: 76/20 (pad)
+"space" in: sky130B_mr.drc:792
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:792
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 76/20 (pad)
+FEOL section
+START: 75/20 (hvi)
+"-" in: sky130B_mr.drc:802
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"width" in: sky130B_mr.drc:803
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"output" in: sky130B_mr.drc:803
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:804
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:804
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 75/20 (hvi)
+START: 125/20 (hvntm)
+"-" in: sky130B_mr.drc:809
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"width" in: sky130B_mr.drc:810
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:810
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"space" in: sky130B_mr.drc:811
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:811
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+END: 125/20 (hvntm)
+OFFGRID-ANGLES section
+"ongrid" in: sky130B_mr.drc:820
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:820
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:821
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:821
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:822
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:822
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:823
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:823
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:824
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:824
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:825
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:825
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:826
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:826
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:827
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:827
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:828
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"output" in: sky130B_mr.drc:828
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:829
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:829
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:830
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:830
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"with_angle" in: sky130B_mr.drc:831
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:831
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:832
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:832
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:833
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:833
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:834
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:834
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:835
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:835
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:836
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:836
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:837
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"output" in: sky130B_mr.drc:837
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:838
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"-" in: sky130B_mr.drc:838
+    Polygons (raw): 1532788 (flat)  2012 (hierarchical)
+    Elapsed: 0.080s
+"with_angle" in: sky130B_mr.drc:838
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.250s
+"output" in: sky130B_mr.drc:838
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.180s
+"&" in: sky130B_mr.drc:839
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"&" in: sky130B_mr.drc:839
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"with_angle" in: sky130B_mr.drc:839
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:839
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"&" in: sky130B_mr.drc:840
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"-" in: sky130B_mr.drc:840
+    Polygons (raw): 289800 (flat)  4 (hierarchical)
+    Elapsed: 0.060s
+"with_angle" in: sky130B_mr.drc:840
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.390s
+"output" in: sky130B_mr.drc:840
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"&" in: sky130B_mr.drc:841
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"&" in: sky130B_mr.drc:841
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:841
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:841
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:842
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:842
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:843
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:843
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:844
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:844
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:845
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:845
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:846
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:846
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:847
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:847
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:848
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:848
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:849
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:849
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:850
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.880s
+"output" in: sky130B_mr.drc:850
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"with_angle" in: sky130B_mr.drc:851
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:851
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:852
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 8.180s
+"output" in: sky130B_mr.drc:852
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"with_angle" in: sky130B_mr.drc:853
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"output" in: sky130B_mr.drc:853
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:854
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"output" in: sky130B_mr.drc:854
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"with_angle" in: sky130B_mr.drc:855
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"output" in: sky130B_mr.drc:855
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:856
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.200s
+"output" in: sky130B_mr.drc:856
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:857
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.170s
+"output" in: sky130B_mr.drc:857
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:858
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.600s
+"output" in: sky130B_mr.drc:858
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"with_angle" in: sky130B_mr.drc:859
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 1.640s
+"output" in: sky130B_mr.drc:859
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:860
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:860
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:861
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:861
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:862
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:862
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"with_angle" in: sky130B_mr.drc:863
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:863
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:864
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:864
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:865
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:865
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:866
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:866
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:867
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"output" in: sky130B_mr.drc:867
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:868
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:868
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:869
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"output" in: sky130B_mr.drc:869
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.130s
+"ongrid" in: sky130B_mr.drc:870
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:870
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"with_angle" in: sky130B_mr.drc:871
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"output" in: sky130B_mr.drc:871
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:872
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:872
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"with_angle" in: sky130B_mr.drc:873
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s
+"output" in: sky130B_mr.drc:873
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:874
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:874
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:875
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:875
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"ongrid" in: sky130B_mr.drc:876
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"output" in: sky130B_mr.drc:876
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:877
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"output" in: sky130B_mr.drc:877
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:878
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s
+"output" in: sky130B_mr.drc:878
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:879
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"output" in: sky130B_mr.drc:879
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:880
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s
+"output" in: sky130B_mr.drc:880
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"with_angle" in: sky130B_mr.drc:881
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s
+"output" in: sky130B_mr.drc:881
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:882
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:882
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:883
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"output" in: sky130B_mr.drc:883
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:884
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"output" in: sky130B_mr.drc:884
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:885
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:885
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"ongrid" in: sky130B_mr.drc:886
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:886
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:887
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:887
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s
+"ongrid" in: sky130B_mr.drc:888
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:888
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:889
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:889
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.090s
+"ongrid" in: sky130B_mr.drc:890
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:890
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:891
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:891
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:892
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:892
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:893
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.060s
+"output" in: sky130B_mr.drc:893
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:894
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:894
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+"with_angle" in: sky130B_mr.drc:895
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:895
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s
+"ongrid" in: sky130B_mr.drc:896
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.050s
+"output" in: sky130B_mr.drc:896
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s
+Writing report database: /Users/marwan/chipfoundry/caravel_user_project/openlane/user_project_wrapper/runs/spi_uart_flat/63-klayout-drc/reports/drc_violations.klayout.xml ..
+Total elapsed: 1424.970s
+ 
+Cell exclusion list:
+   rule    | cell
+   nwell.6 | sky130_fd_io__gpiov2_amux, sky130_fd_io__simple_pad_and_busses, sram
+   nsd.1   | sram
+   nsd.2   | sram
+   psd.1   | sram
+   psd.2   | sram
+ 
+release 2024.2.11_01.09
