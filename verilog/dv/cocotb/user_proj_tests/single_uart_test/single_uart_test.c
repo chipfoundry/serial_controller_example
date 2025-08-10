@@ -20,7 +20,7 @@
 
 // UART0 base address
 #define UART0_BASE 0x30000000
-#define UART0 ((EF_UART_TYPE_PTR)UART0_BASE)
+#define UART0 ((CF_UART_TYPE_PTR)UART0_BASE)
 
 void main(){
     // Enable management gpio as output to use as indicator for finishing configuration  
@@ -37,16 +37,16 @@ void main(){
     ManagmentGpio_write(1);
     
     // Initialize UART0
-    EF_UART_enable(UART0);
-    EF_UART_setGclkEnable(UART0, 1);  // Enable clock for UART0
-    EF_UART_setTxFIFOThreshold(UART0, 3);
-    EF_UART_enableTx(UART0);
+    CF_UART_enable(UART0);
+    CF_UART_setGclkEnable(UART0, 1);  // Enable clock for UART0
+    CF_UART_setTxFIFOThreshold(UART0, 3);
+    CF_UART_enableTx(UART0);
     
     // Send "Hello\n" on UART0
-    EF_UART_writeChar(UART0, 'H');
-    EF_UART_writeChar(UART0, 'e');
-    EF_UART_writeChar(UART0, 'l');
-    EF_UART_writeChar(UART0, 'l');
-    EF_UART_writeChar(UART0, 'o');
-    EF_UART_writeChar(UART0, '\n');
+    CF_UART_writeChar(UART0, 'H');
+    CF_UART_writeChar(UART0, 'e');
+    CF_UART_writeChar(UART0, 'l');
+    CF_UART_writeChar(UART0, 'l');
+    CF_UART_writeChar(UART0, 'o');
+    CF_UART_writeChar(UART0, '\n');
 } 

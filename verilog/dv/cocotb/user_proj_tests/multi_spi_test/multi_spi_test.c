@@ -55,9 +55,9 @@ void main() {
     // Enable GCLK for all SPIs, set simple config: CPOL=0, CPHA=0, prescaler small
     uint32_t spis[5] = {SPI0_BASE, SPI1_BASE, SPI2_BASE, SPI3_BASE, SPI4_BASE};
     for (int i = 0; i < 5; ++i) {
-        EF_SPI_setGclkEnable(spis[i], 1);
-        EF_SPI_writepolarity(spis[i], 0);
-        EF_SPI_writePhase(spis[i], 0);
+        CF_SPI_setGclkEnable(spis[i], 1);
+        CF_SPI_writepolarity(spis[i], 0);
+        CF_SPI_writePhase(spis[i], 0);
         // Slow SCLK for robust sampling in testbench
         // Prescaler register is PR at offset; using struct alias via EF driver isn't exposed, so leave default.
         // If needed, we can extend EF driver to set PR.
@@ -66,12 +66,12 @@ void main() {
     // For each SPI, assert CSB, send one byte on MOSI via TXDATA and deassert CSB
     for (int i = 0; i < 5; ++i) {
         unsigned byte = 0xA0u + (unsigned)i;
-        EF_SPI_assertCs(spis[i]);
-        EF_SPI_enable(spis[i]);
-        EF_SPI_writeData(spis[i], (int)byte);
-        EF_SPI_waitTxFifoEmpty(spis[i]);
-        EF_SPI_disable(spis[i]);
-        EF_SPI_deassertCs(spis[i]);
+        CF_SPI_assertCs(spis[i]);
+        CF_SPI_enable(spis[i]);
+        CF_SPI_writeData(spis[i], (int)byte);
+        CF_SPI_waitTxFifoEmpty(spis[i]);
+        CF_SPI_disable(spis[i]);
+        CF_SPI_deassertCs(spis[i]);
     }
 }
 

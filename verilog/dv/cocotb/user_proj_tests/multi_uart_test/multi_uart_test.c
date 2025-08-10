@@ -31,14 +31,14 @@
 #define UART6_BASE 0x30060000
 #define UART7_BASE 0x30070000
 
-#define UART0 ((EF_UART_TYPE_PTR)UART0_BASE)
-#define UART1 ((EF_UART_TYPE_PTR)UART1_BASE)
-#define UART2 ((EF_UART_TYPE_PTR)UART2_BASE)
-#define UART3 ((EF_UART_TYPE_PTR)UART3_BASE)
-#define UART4 ((EF_UART_TYPE_PTR)UART4_BASE)
-#define UART5 ((EF_UART_TYPE_PTR)UART5_BASE)
-#define UART6 ((EF_UART_TYPE_PTR)UART6_BASE)
-#define UART7 ((EF_UART_TYPE_PTR)UART7_BASE)
+#define UART0 ((CF_UART_TYPE_PTR)UART0_BASE)
+#define UART1 ((CF_UART_TYPE_PTR)UART1_BASE)
+#define UART2 ((CF_UART_TYPE_PTR)UART2_BASE)
+#define UART3 ((CF_UART_TYPE_PTR)UART3_BASE)
+#define UART4 ((CF_UART_TYPE_PTR)UART4_BASE)
+#define UART5 ((CF_UART_TYPE_PTR)UART5_BASE)
+#define UART6 ((CF_UART_TYPE_PTR)UART6_BASE)
+#define UART7 ((CF_UART_TYPE_PTR)UART7_BASE)
 
 void main(){
     // Enable management gpio as output to use as indicator for finishing configuration  
@@ -85,113 +85,113 @@ void main(){
     ManagmentGpio_write(1);
     
     // Initialize all UARTs
-    EF_UART_enable(UART0);
-    EF_UART_enable(UART1);
-    EF_UART_enable(UART2);
-    EF_UART_enable(UART3);
-    EF_UART_enable(UART4);
-    EF_UART_enable(UART5);
-    EF_UART_enable(UART6);
-    EF_UART_enable(UART7);
+    CF_UART_enable(UART0);
+    CF_UART_enable(UART1);
+    CF_UART_enable(UART2);
+    CF_UART_enable(UART3);
+    CF_UART_enable(UART4);
+    CF_UART_enable(UART5);
+    CF_UART_enable(UART6);
+    CF_UART_enable(UART7);
     // Ensure UART clocks are enabled (required for TX/RX activity)
-    EF_UART_setGclkEnable(UART0, 1);
-    EF_UART_setGclkEnable(UART1, 1);
-    EF_UART_setGclkEnable(UART2, 1);
-    EF_UART_setGclkEnable(UART3, 1);
-    EF_UART_setGclkEnable(UART4, 1);
-    EF_UART_setGclkEnable(UART5, 1);
-    EF_UART_setGclkEnable(UART6, 1);
-    EF_UART_setGclkEnable(UART7, 1);
+    CF_UART_setGclkEnable(UART0, 1);
+    CF_UART_setGclkEnable(UART1, 1);
+    CF_UART_setGclkEnable(UART2, 1);
+    CF_UART_setGclkEnable(UART3, 1);
+    CF_UART_setGclkEnable(UART4, 1);
+    CF_UART_setGclkEnable(UART5, 1);
+    CF_UART_setGclkEnable(UART6, 1);
+    CF_UART_setGclkEnable(UART7, 1);
     
     // Set TX FIFO thresholds
-    EF_UART_setTxFIFOThreshold(UART0, 3);
-    EF_UART_setTxFIFOThreshold(UART1, 3);
-    EF_UART_setTxFIFOThreshold(UART2, 3);
-    EF_UART_setTxFIFOThreshold(UART3, 3);
-    EF_UART_setTxFIFOThreshold(UART4, 3);
-    EF_UART_setTxFIFOThreshold(UART5, 3);
-    EF_UART_setTxFIFOThreshold(UART6, 3);
-    EF_UART_setTxFIFOThreshold(UART7, 3);
+    CF_UART_setTxFIFOThreshold(UART0, 3);
+    CF_UART_setTxFIFOThreshold(UART1, 3);
+    CF_UART_setTxFIFOThreshold(UART2, 3);
+    CF_UART_setTxFIFOThreshold(UART3, 3);
+    CF_UART_setTxFIFOThreshold(UART4, 3);
+    CF_UART_setTxFIFOThreshold(UART5, 3);
+    CF_UART_setTxFIFOThreshold(UART6, 3);
+    CF_UART_setTxFIFOThreshold(UART7, 3);
     
     // Enable TX for all UARTs
-    EF_UART_enableTx(UART0);
-    EF_UART_enableTx(UART1);
-    EF_UART_enableTx(UART2);
-    EF_UART_enableTx(UART3);
-    EF_UART_enableTx(UART4);
-    EF_UART_enableTx(UART5);
-    EF_UART_enableTx(UART6);
-    EF_UART_enableTx(UART7);
+    CF_UART_enableTx(UART0);
+    CF_UART_enableTx(UART1);
+    CF_UART_enableTx(UART2);
+    CF_UART_enableTx(UART3);
+    CF_UART_enableTx(UART4);
+    CF_UART_enableTx(UART5);
+    CF_UART_enableTx(UART6);
+    CF_UART_enableTx(UART7);
     
     // Send different messages on each UART with delays between them
     // UART0: "Hello\n"
-    EF_UART_writeChar(UART0, 'H');
-    EF_UART_writeChar(UART0, 'e');
-    EF_UART_writeChar(UART0, 'l');
-    EF_UART_writeChar(UART0, 'l');
-    EF_UART_writeChar(UART0, 'o');
-    EF_UART_writeChar(UART0, '\n');
+    CF_UART_writeChar(UART0, 'H');
+    CF_UART_writeChar(UART0, 'e');
+    CF_UART_writeChar(UART0, 'l');
+    CF_UART_writeChar(UART0, 'l');
+    CF_UART_writeChar(UART0, 'o');
+    CF_UART_writeChar(UART0, '\n');
     
     
     // UART1: "World\n"
-    EF_UART_writeChar(UART1, 'W');
-    EF_UART_writeChar(UART1, 'o');
-    EF_UART_writeChar(UART1, 'r');
-    EF_UART_writeChar(UART1, 'l');
-    EF_UART_writeChar(UART1, 'd');
-    EF_UART_writeChar(UART1, '\n');
+    CF_UART_writeChar(UART1, 'W');
+    CF_UART_writeChar(UART1, 'o');
+    CF_UART_writeChar(UART1, 'r');
+    CF_UART_writeChar(UART1, 'l');
+    CF_UART_writeChar(UART1, 'd');
+    CF_UART_writeChar(UART1, '\n');
     
     
     // UART2: "Test2\n"
-    EF_UART_writeChar(UART2, 'T');
-    EF_UART_writeChar(UART2, 'e');
-    EF_UART_writeChar(UART2, 's');
-    EF_UART_writeChar(UART2, 't');
-    EF_UART_writeChar(UART2, '2');
-    EF_UART_writeChar(UART2, '\n');
+    CF_UART_writeChar(UART2, 'T');
+    CF_UART_writeChar(UART2, 'e');
+    CF_UART_writeChar(UART2, 's');
+    CF_UART_writeChar(UART2, 't');
+    CF_UART_writeChar(UART2, '2');
+    CF_UART_writeChar(UART2, '\n');
     
     
     // UART3: "Test3\n"
-    EF_UART_writeChar(UART3, 'T');
-    EF_UART_writeChar(UART3, 'e');
-    EF_UART_writeChar(UART3, 's');
-    EF_UART_writeChar(UART3, 't');
-    EF_UART_writeChar(UART3, '3');
-    EF_UART_writeChar(UART3, '\n');
+    CF_UART_writeChar(UART3, 'T');
+    CF_UART_writeChar(UART3, 'e');
+    CF_UART_writeChar(UART3, 's');
+    CF_UART_writeChar(UART3, 't');
+    CF_UART_writeChar(UART3, '3');
+    CF_UART_writeChar(UART3, '\n');
     
     
     // UART4: "Test4\n"
-    EF_UART_writeChar(UART4, 'T');
-    EF_UART_writeChar(UART4, 'e');
-    EF_UART_writeChar(UART4, 's');
-    EF_UART_writeChar(UART4, 't');
-    EF_UART_writeChar(UART4, '4');
-    EF_UART_writeChar(UART4, '\n');
+    CF_UART_writeChar(UART4, 'T');
+    CF_UART_writeChar(UART4, 'e');
+    CF_UART_writeChar(UART4, 's');
+    CF_UART_writeChar(UART4, 't');
+    CF_UART_writeChar(UART4, '4');
+    CF_UART_writeChar(UART4, '\n');
     
     
     // UART5: "Test5\n"
-    EF_UART_writeChar(UART5, 'T');
-    EF_UART_writeChar(UART5, 'e');
-    EF_UART_writeChar(UART5, 's');
-    EF_UART_writeChar(UART5, 't');
-    EF_UART_writeChar(UART5, '5');
-    EF_UART_writeChar(UART5, '\n');
+    CF_UART_writeChar(UART5, 'T');
+    CF_UART_writeChar(UART5, 'e');
+    CF_UART_writeChar(UART5, 's');
+    CF_UART_writeChar(UART5, 't');
+    CF_UART_writeChar(UART5, '5');
+    CF_UART_writeChar(UART5, '\n');
     
     
     // UART6: "Test6\n"
-    EF_UART_writeChar(UART6, 'T');
-    EF_UART_writeChar(UART6, 'e');
-    EF_UART_writeChar(UART6, 's');
-    EF_UART_writeChar(UART6, 't');
-    EF_UART_writeChar(UART6, '6');
-    EF_UART_writeChar(UART6, '\n');
+    CF_UART_writeChar(UART6, 'T');
+    CF_UART_writeChar(UART6, 'e');
+    CF_UART_writeChar(UART6, 's');
+    CF_UART_writeChar(UART6, 't');
+    CF_UART_writeChar(UART6, '6');
+    CF_UART_writeChar(UART6, '\n');
     
     
     // UART7: "Test7\n"
-    EF_UART_writeChar(UART7, 'T');
-    EF_UART_writeChar(UART7, 'e');
-    EF_UART_writeChar(UART7, 's');
-    EF_UART_writeChar(UART7, 't');
-    EF_UART_writeChar(UART7, '7');
-    EF_UART_writeChar(UART7, '\n');
+    CF_UART_writeChar(UART7, 'T');
+    CF_UART_writeChar(UART7, 'e');
+    CF_UART_writeChar(UART7, 's');
+    CF_UART_writeChar(UART7, 't');
+    CF_UART_writeChar(UART7, '7');
+    CF_UART_writeChar(UART7, '\n');
 } 
