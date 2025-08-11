@@ -1,6 +1,6 @@
-# Caravel User Project
+# Serial Example: Multi-UART + Multi-SPI on Caravel User Project
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![User CI](https://github.com/chipfoundry/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/chipfoundry/caravel_project_example/actions/workflows/user_project_ci.yml)  [![Caravel Build](https://github.com/chipfoundry/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/chipfoundry/caravel_project_example/actions/workflows/caravel_build.yml) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@
 
 ## Overview
 
-This repository contains a sample user project for the [Caravel](https://github.com/chipfoundry/caravel.git) chip user space. It includes a simple counter demonstrating how to use Caravel's utilities such as IO pads, logic analyzer probes, and the Wishbone port. The repository also follows the recommended structure for open-mpw shuttle projects.
+This repository contains a Caravel user project that integrates 8 UARTs and 5 SPI masters on the user Wishbone window, with direct IO mapping to GPIO pads. It includes cocotb tests and firmware examples.
 
 ## Prerequisites
 
@@ -77,19 +77,22 @@ This repository contains a sample user project for the [Caravel](https://github.
 
 5. Run cocotb simulation on your design:
 
+   - Install IP dependencies (UART and SPI) via cf-ipm:
+
+     ```bash
+     pip install cf-ipm
+     ipm install-dep
+     ```
+
    - Update `rtl/gl/gl+sdf` files in `verilog/includes/includes.<rtl/gl/gl+sdf>.caravel_user_project`.
    - Run `gen_gpio_defaults.py` script to generate `caravel_core.v`.
    - Run RTL tests:
 
-     ```bash
-     make cocotb-verify-all-rtl
-     ```
+      ```bash
+      caravel_cocotb -tl verilog/dv/cocotb/user_proj_tests/user_proj_tests.yaml -tag serial_example -design_info verilog/dv/cocotb/design_info.yaml
+      ```
 
-   - For GL simulation:
-
-     ```bash
-     make cocotb-verify-all-gl
-     ```
+    - For GL simulation after hardening, use `make cocotb-verify-<test_name>-gl`.
 
    - To add cocotb tests, refer to [Adding cocotb test](https://caravel-sim-infrastructure.readthedocs.io/en/latest/usage.html#adding-a-test).
 
@@ -127,7 +130,12 @@ This repository contains a sample user project for the [Caravel](https://github.
 
 ### GPIO Configuration
 
-Specify the power-on default configuration for each GPIO in Caravel in `verilog/rtl/user_defines.v`. GPIO[5] to GPIO[37] require configuration, while GPIO[0] to GPIO[4] are preset and cannot be changed.
+GPIOs for this design are used as follows:
+
+- UART RX/TX on GPIO[0..16] pairs (RX even, TX next odd; except gap at 8)
+- SPI0..4 use GPIO[17..36] as MISO/MOSI/SCLK/CSB
+
+Users can override power-on defaults in `verilog/rtl/user_defines.v` as needed.
 
 ### Layout Integration
 
@@ -139,7 +147,7 @@ Ensure your hardened `user_project_wrapper` meets the requirements in [User Proj
 
 ### Running Full Chip Simulation
 
-Refer to [ReadTheDocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for adding cocotb tests.
+Refer to `verilog/dv/cocotb/user_proj_tests/` for test lists and individual tests. Use the provided YAML includes file to run all tests at once.
 
 1. Install the simulation environment:
 
@@ -216,17 +224,10 @@ For more details, refer to the [Knowledgebase article](https://info.chipfoundry.
 
 ### Running OpenLane
 
-For this project, we chose the first option: harden the user macro first, then insert it into the user project wrapper without standard cells at the top level.
-
-To reproduce this process, run:
+For this project, peripherals are integrated at RTL and hardened at the wrapper level. To harden the wrapper:
 
 ```bash
 # DO NOT cd into openlane
-
-# Harden user_proj_example
-make user_proj_example
-
-# Harden user_project_wrapper
 make user_project_wrapper
 ```
 
@@ -306,3 +307,7 @@ A summary of timing results is provided at the end.
 - ✔️ Hardened `user_project_wrapper` matches the [pin order](https://github.com/chipfoundry/caravel/blob/master/openlane/user_project_wrapper_empty/pin_order.cfg).
 - ✔️ Matches the [fixed wrapper configuration](https://github.com/chipfoundry/caravel/blob/master/openlane/user_project_wrapper_empty/fixed_wrapper_cfgs.tcl).
 - ✔️ Design passes the [mpw-precheck](https://github.com/chipfoundry/mpw_precheck).
+
+## Serial Example Details
+
+See the knowledge base article for this design: [Serial Example: Architecture and Usage](./serial_example.md).
