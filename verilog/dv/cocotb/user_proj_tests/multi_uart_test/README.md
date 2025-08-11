@@ -66,12 +66,12 @@ The `single_uart_test` provides a simpler test that only tests UART0 to verify b
 
 To use the multi-UART system in your firmware:
 
-1. Include the EF_UART headers
+1. Include the CF_UART headers
 2. Define the UART base addresses
 3. Configure the GPIO pins for each UART
-4. Initialize each UART with `EF_UART_enable()`
+4. Initialize each UART with `CF_UART_enable()`
 5. Configure TX/RX settings as needed
-6. Use `EF_UART_writeChar()` and `EF_UART_readChar()` for communication
+6. Use `CF_UART_writeChar()` and `CF_UART_readChar()` for communication
 
 ## Files
 

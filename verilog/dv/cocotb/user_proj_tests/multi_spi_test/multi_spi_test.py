@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 ChipFoundry
+# Copyright 2025 ChipFoundry, a DBA of Umbralogic Technologies LLC
 # SPDX-License-Identifier: Apache-2.0
 
 from caravel_cocotb.caravel_interfaces import test_configure
