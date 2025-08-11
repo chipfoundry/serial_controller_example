@@ -25,7 +25,7 @@ module uart_macro_wrapper (
     output uart_irq
 );
 
-    // Instantiate EF_UART with Wishbone interface
+    // Instantiate CF_UART with Wishbone interface
     CF_UART_WB uart (
         .clk_i(wb_clk_i),
         .rst_i(wb_rst_i),

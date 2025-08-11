@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: 2024 ChipFoundry
+// Copyright 2025 ChipFoundry, a DBA of Umbralogic Technologies LLC
 // SPDX-License-Identifier: Apache-2.0
 
 #include <firmware_apis.h>

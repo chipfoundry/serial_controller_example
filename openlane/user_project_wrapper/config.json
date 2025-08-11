@@ -11,7 +11,7 @@
         "dir::../../ip/CF_SPI/hdl/rtl/CF_SPI.v",
         "dir::../../ip/CF_SPI/hdl/rtl/spi_master.v",
         "dir::../../ip/CF_SPI/hdl/rtl/bus_wrappers/CF_SPI_WB.v",
-        "dir::../../ip/EF_IP_UTIL/hdl/ef_util_lib.v"
+        "dir::../../ip/CF_IP_UTIL/hdl/cf_util_lib.v"
     ],
     "PNR_SDC_FILE": "dir::signoff.sdc",
     
