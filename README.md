@@ -80,20 +80,17 @@ make setup-cocotb   # one-time: install cocotb test infra
 Run all cocotb tests for this project:
 
 ```bash
-caravel_cocotb -tl verilog/dv/cocotb/user_proj_tests/user_proj_tests.yaml \
-  -tag serial_example -design_info verilog/dv/cocotb/design_info.yaml
+make cocotb-verify-all-rtl
 ```
 
 Run individual tests:
 
 ```bash
 # Multi-UART
-caravel_cocotb -t multi_uart_test -tag multi_uart \
-  -design_info verilog/dv/cocotb/design_info.yaml
+make cocotb-verify-multi_uart_test-rtl
 
 # Multi-SPI
-caravel_cocotb -t multi_spi_test -tag multi_spi \
-  -design_info verilog/dv/cocotb/design_info.yaml
+make cocotb-verify-multi_spi_test-rtl
 ```
 
 Gate-level (after hardening):
