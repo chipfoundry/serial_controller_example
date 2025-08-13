@@ -74,7 +74,7 @@ ipm install-dep   # installs UART and SPI IPs listed in ip/dependencies.json
 Environment (from repo root):
 
 ```bash
-make setup-cocotb   # one-time: install cocotb test infra
+make setup
 ```
 
 Run all cocotb tests for this project:
