@@ -45,10 +45,11 @@ export DISABLE_LVS?=0
 
 export ROOTLESS
 
+export CIEL_DATA_SOURCE=static-web:https://chipfoundry.github.io/ciel-releases
+
 ifeq ($(PDK),sky130A)
-SKYWATER_COMMIT=f70d8ca46961ff92719d8870a18a076370b85f6c
 export OPEN_PDKS_COMMIT_LVS?=6d4d11780c40b20ee63cc98e645307a9bf2b2ab8
-export OPEN_PDKS_COMMIT?=0fe599b2afb6708d281543108caf8310912f54af
+export OPEN_PDKS_COMMIT?=3e0e31dcce8519a7dbb82590346db16d91b7244f
 MPW_TAG ?= CC2509
 ifeq ($(CARAVEL_LITE),1)
 CARAVEL_NAME := caravel-lite
@@ -62,9 +63,8 @@ endif
 endif
 
 ifeq ($(PDK),sky130B)
-SKYWATER_COMMIT=f70d8ca46961ff92719d8870a18a076370b85f6c
 export OPEN_PDKS_COMMIT_LVS?=6d4d11780c40b20ee63cc98e645307a9bf2b2ab8
-export OPEN_PDKS_COMMIT?=0fe599b2afb6708d281543108caf8310912f54af
+export OPEN_PDKS_COMMIT?=3e0e31dcce8519a7dbb82590346db16d91b7244f
 MPW_TAG ?= 2024.09.12-1
 ifeq ($(CARAVEL_LITE),1)
 CARAVEL_NAME := caravel-lite
@@ -224,7 +224,7 @@ precheck:
 	@docker pull chipfoundry/mpw_precheck:latest
 
 .PHONY: run-precheck
-run-precheck: check-pdk check-precheck enable-lvs-pdk
+run-precheck: check-pdk check-precheck
 	@if [ "$$DISABLE_LVS" = "1" ]; then\
 		$(eval INPUT_DIRECTORY := $(shell pwd)) \
 		cd $(PRECHECK_ROOT) && \
