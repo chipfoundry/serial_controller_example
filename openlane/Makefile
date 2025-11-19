@@ -27,7 +27,7 @@ ifeq ($(origin LIBRELANE_RUN_TAG), undefined)
 export LIBRELANE_RUN_TAG := $(shell date '+%y_%m_%d_%H_%M')
 endif
 ifeq ($(origin CF_LIBRELANE_TAG), undefined)
-export CF_LIBRELANE_TAG := CC2509c
+export CF_LIBRELANE_TAG := CI2511
 endif
 
 export CARAVEL_ROOT := $(CARAVEL_ROOT)
@@ -57,7 +57,11 @@ docker_mounts += -m $(MCW_ROOT)
 endif
 
 ifeq ($(LIBRELANE_USE_NIX),1)
+ifeq ($(origin UPSTREAM_LIBRELANE_TAG), undefined)
 librelane_run = nix run github:chipfoundry/openlane-2/$(CF_LIBRELANE_TAG) --
+else
+librelane_run = nix run github:librelane/librelane/$(UPSTREAM_LIBRELANE_TAG) --
+endif
 else
 librelane_docker_args = $(shell test -t 0 || echo "--docker-no-tty")
 librelane_run = $(PROJECT_ROOT)/openlane/.venv/bin/python3 -m librelane $(docker_mounts) $(librelane_docker_args) --dockerized 
